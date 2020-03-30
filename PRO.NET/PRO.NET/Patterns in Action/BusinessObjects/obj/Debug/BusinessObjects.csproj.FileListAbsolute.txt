@@ -1,0 +1,6 @@
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.pdb

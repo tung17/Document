@@ -1,0 +1,14 @@
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\DataObjects.dll.config
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\AutoMapper.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\BusinessObjects.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\EntityFramework.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\AutoMapper.xml
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\bin\Debug\EntityFramework.xml
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\obj\Debug\DataObjects.csproj.CopyComplete
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Patterns in Action\DataObjects\obj\Debug\DataObjects.pdb

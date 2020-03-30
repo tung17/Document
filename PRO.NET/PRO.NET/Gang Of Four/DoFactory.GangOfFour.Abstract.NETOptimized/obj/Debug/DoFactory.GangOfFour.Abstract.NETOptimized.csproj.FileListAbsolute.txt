@@ -1,0 +1,7 @@
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\bin\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.exe.config
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\bin\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.exe
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\bin\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.pdb
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\obj\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.csprojAssemblyReference.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\obj\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.csproj.CoreCompileInputs.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\obj\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.exe
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Abstract.NETOptimized\obj\Debug\DoFactory.GangOfFour.Abstract.NETOptimized.pdb

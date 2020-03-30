@@ -1,0 +1,6 @@
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Composite.RealWorld\bin\Debug\DoFactory.GangOfFour.Composite.RealWorld.exe.config
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Composite.RealWorld\bin\Debug\DoFactory.GangOfFour.Composite.RealWorld.exe
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Composite.RealWorld\bin\Debug\DoFactory.GangOfFour.Composite.RealWorld.pdb
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Composite.RealWorld\obj\Debug\DoFactory.GangOfFour.Composite.RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Composite.RealWorld\obj\Debug\DoFactory.GangOfFour.Composite.RealWorld.exe
+C:\Users\tungt\Downloads\PRO.NET\PRO.NET\Gang Of Four\DoFactory.GangOfFour.Composite.RealWorld\obj\Debug\DoFactory.GangOfFour.Composite.RealWorld.pdb
